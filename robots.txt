@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onladele.github.io/sitemap.html.gz
+Sitemap: https://onladele.github.io/app/sitemap.html.gz
+Sitemap: https://onladele.github.io/assets/sitemap.html.gz
+Sitemap: https://onladele.github.io/css/sitemap.html.gz
+Sitemap: https://onladele.github.io/includes/sitemap.html.gz
+Sitemap: https://onladele.github.io/item/sitemap.html.gz
+Sitemap: https://onladele.github.io/src/sitemap.html.gz
